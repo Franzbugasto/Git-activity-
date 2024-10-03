@@ -13,4 +13,4 @@ while (guess !== correctNumber) {
     guess = Number(prompt("Guess a number between 1 and 10:"));
 }
 // When the guess is correct, log the success message
-console.log("Correct!");;
+console.log("Correct!");
